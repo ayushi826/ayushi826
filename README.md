@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ayushi826
 - 👀 I’m interested in learning new technologies 
-- 🌱 I’m currently learning C, SQl, Python & web design 
+- 🌱 I’m currently learning Node.js, SQl, Java & web design 
 - 💞️ I’m looking to collaborate on github
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I am a collage student and I like to play Chess😎
