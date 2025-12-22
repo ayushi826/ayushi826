@@ -10,7 +10,7 @@
 - ⚛️ Currently exploring **MERN Stack development** and **Java programming language.** 
 - 🛠️ Actively building projects to strengthen fundamentals and problem-solving skills.  
 - 💡 Enjoy turning ideas into code through hands-on practice.  
-- 🤝 Open to collaborating on GitHub and learning from others. 
+- 🤝 Open to **collaborating on GitHub, Internship and learning from others.** 
 - ⚡ Fun fact: I enjoy playing Chess♟️and Traveling.😄🌱
 ---
 
