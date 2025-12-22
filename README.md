@@ -28,7 +28,7 @@
 - 🌐 **Web Development:** HTML, CSS, JavaScript  
 - ⚛️ **MERN Stack:** MongoDB, Express.js, React, Node.js *(Learning)*  
 - ☕ **Java:** Learning  
-- 🐍 **Python:** Basics  
+- 🐍 **Python:** Intermediate 
 - 🗄️ **Databases:** SQL  
 - 🔧 **Tools:** Git, GitHub, VS Code  
 
