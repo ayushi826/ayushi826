@@ -3,7 +3,7 @@
 ---
 ## 😎 About Me
 
-- 👩‍💻 Future Software Engineer and 2nd-year Computer Science student.
+- 👩‍💻 Future Software Engineer and Currently 2nd-year Computer Science student.
 - 😊 Pronouns: She/Her
 - 📘 Strong believer in learning by doing.  
 - 💞️ Interested in learning new technologies and exploring the tech world.  
