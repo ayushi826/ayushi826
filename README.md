@@ -20,8 +20,9 @@
 - 💼 Currently an **Intern at Edunet Foundation**, in collaboration with **IBM SkillsBuild**  
 - 🌍 Member of **Women in Tech & Entrepreneurship – International Community**  
 - 🧠 Built a **GitHub Repository Analyzer Model** during a **Solo Online Hackathon**  
--  **Open Source Contribution** - Contribute on many project under Elite Code Winter Of Codes 2026.
-                                - Campus Ambassador of Girls Script Summer Of Code 2025. 
+-  **Open Source Contribution:**
+-  1. Tech Contributor of many project under Elite Codes Winter Of Code 2026.
+-  2. Campus Ambassador of Girls Script Summer Of Code 2025. 
 ---
 
 ## 🛠️ Skills & Technologies
