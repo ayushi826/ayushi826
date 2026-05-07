@@ -21,13 +21,13 @@
 - 🌍 Member of **Women in Tech & Entrepreneurship – International Community**  
 - 🧠 Built a **GitHub Repository Analyzer Model** during a **Solo Online Hackathon**  
 -  **Open Source Contribution:**
--  1. Awarded as **Top 80** opensource Contributor of many project out of 2600+ contributors under Elite Codes Winter Of Code 2026.
+-  1. Awarded as **Top 69th** opensource Contributor of many project out of 5000+ contributors under Elite Codes Winter Of Code 2026.
 -  2. Campus Ambassador of Girls Script Summer Of Code 2025. 
 ---
 
 ## 🛠️ Skills & Technologies
 
-- 🌐 **Web Development:** HTML, CSS, JavaScript  
+- 🌐 **Web Development:** HTML5, CSS3, Tailwind CSS, JavaScript  
 - ⚛️ **MERN Stack:** MongoDB, Express.js, React, Node.js *(Learning)*  
 - ☕ **Java:** Learning  
 - 🐍 **Python:** Intermediate 
