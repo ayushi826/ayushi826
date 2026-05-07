@@ -17,7 +17,7 @@
 ## 🏆 Achievements
 - 💡 Recognized & Selected under **Top 10** in **Google Techsprint Hackathon 2k25** through **Hack2skill** Organized by on Campus **Google Developers Group IPEC**.
 - 🎯 Selected for **Infosys Springboard – Pragati Path of Future Cohort 7**  
-- 💼 Currently an **Intern at Edunet Foundation**, in collaboration with **IBM SkillsBuild**  
+- 💼 Worked as an **Intern at Edunet Foundation**, in collaboration with **IBM SkillsBuild**  
 - 🌍 Member of **Women in Tech & Entrepreneurship – International Community**
 -  🧠**Hackathons**
 -  Built a ** Working GitHub Repository Analyzer Model** during a **Solo Online Hackathon**
