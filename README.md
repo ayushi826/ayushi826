@@ -18,8 +18,10 @@
 - 💡 Recognized & Selected under **Top 10** in **Google Techsprint Hackathon 2k25** through **Hack2skill** Organized by on Campus **Google Developers Group IPEC**.
 - 🎯 Selected for **Infosys Springboard – Pragati Path of Future Cohort 7**  
 - 💼 Currently an **Intern at Edunet Foundation**, in collaboration with **IBM SkillsBuild**  
-- 🌍 Member of **Women in Tech & Entrepreneurship – International Community**  
-- 🧠 Built a **GitHub Repository Analyzer Model** during a **Solo Online Hackathon**  
+- 🌍 Member of **Women in Tech & Entrepreneurship – International Community**
+-  🧠**Hackathons**
+-  Built a ** Working GitHub Repository Analyzer Model** during a **Solo Online Hackathon**
+-  Selected for Couple of Collage Campus Hackathons in 2026. 
 -  **Open Source Contribution:**
 -  1. Awarded as **Top 69th** opensource Contributor of many project out of 5000+ contributors under Elite Codes Winter Of Code 2026.
 -  2. Campus Ambassador of Girls Script Summer Of Code 2025. 
