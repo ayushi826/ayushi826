@@ -20,7 +20,7 @@
 - 💼 Worked as an **Intern at Edunet Foundation**, in collaboration with **IBM SkillsBuild**  
 - 🌍 Member of **Women in Tech & Entrepreneurship – International Community**
 -  🧠**Hackathons**
--  Built a ** Working GitHub Repository Analyzer Model** during a **Solo Online Hackathon**
+-  Built a **Working GitHub Repository Analyzer Model** during a **Solo Online Hackathon**
 -  Selected for Couple of Collage Campus Hackathons in 2026. 
 -  **Open Source Contribution:**
 -  1. Awarded as **Top 69th** opensource Contributor of many project out of 5000+ contributors under Elite Codes Winter Of Code 2026.
@@ -31,7 +31,7 @@
 
 - 🌐 **Web Development:** HTML5, CSS3, Tailwind CSS, JavaScript  
 - ⚛️ **MERN Stack:** MongoDB, Express.js, React, Node.js *(Learning)*  
-- ☕ **Java:** Learning  
+- ☕ **Java, Springboot**  
 - 🐍 **Python:** Intermediate 
 - 🗄️ **Databases:** SQL  
 - 🔧 **Tools:** Git, GitHub, VS Code  
