@@ -86,10 +86,13 @@
 # Streak
 ![GitHub Streak](https://streak-stats.demolab.com?user=ayushi826&theme=tokyonight&hide_border=true)
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
 ![Snake animation](https://github.com/ayushi826/ayushi826/blob/output/github-contribution-grid-snake.svg)
 
+### 💭 Quote
+
+> "When something is important enough, you do it even if the odds are not in your favor."
+>
+> — Elon Musk
+> 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:667eea,100:764ba2&section=footer"/>
 
-⭐ Learning, Building, and Growing Every Day.
