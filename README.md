@@ -83,4 +83,16 @@
   </a>
 </p>
 
+![Profile Views](https://komarev.com/ghpvc/?username=ayushi826&label=Profile%20Views&color=0e75b6&style=for-the-badge)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ayushi826&theme=tokyonight&no-frame=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=ayushi826&theme=tokyonight&hide_border=true)
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+![Snake animation](https://github.com/ayushi826/ayushi826/blob/output/github-contribution-grid-snake.svg)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:667eea,100:764ba2&section=footer"/>
+
 ⭐ Learning, Building, and Growing Every Day.
