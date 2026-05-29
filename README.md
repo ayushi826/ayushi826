@@ -3,7 +3,7 @@
 
 ### Aspiring AI Software Engineer | BCA Student | Computer Science Enthusiast
 
-<img align="right" alt="Girl Coding" width="350" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
+<img align="right" width="320" src="https://cdn-icons-png.flaticon.com/512/4140/4140048.png">
 
 ## 🚀 About Me
 
