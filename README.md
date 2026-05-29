@@ -88,11 +88,9 @@
 
 ![Snake animation](https://github.com/ayushi826/ayushi826/blob/output/github-contribution-grid-snake.svg)
 
-### 💭 Quote
+### 💭 What Drives Me
 
 > "When something is important enough, you do it even if the odds are not in your favor."
 >
-> — Elon Musk
-> 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:667eea,100:764ba2&section=footer"/>
 
