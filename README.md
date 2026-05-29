@@ -1,43 +1,70 @@
 
-## 𝐈'𝐦 𝐀𝐘𝐔𝐒𝐇𝐈 𝐒𝐑𝐈𝐕𝐀𝐒𝐓𝐀𝐕𝐀 🙋🏻‍♀️
----
-## 😎 About Me
+# Hi, I'm Ayushi Srivastava 👋
 
-- 👩‍💻 Future Software Engineer and Currently 2nd-year Computer Science student.
-- 😊 Pronouns: She/Her
-- 📘 Strong believer in learning by doing.  
-- 💞️ Interested in learning new technologies and exploring the tech world.  
-- ⚛️ Currently exploring **MERN Stack development** and **Java programming language.** 
-- 🛠️ Actively building projects to strengthen fundamentals and problem-solving skills.  
-- 💡 Enjoy turning ideas into code through hands-on practice.  
-- 🤝 Open to **collaborating on GitHub, Internship and learning from others.** 
-- ⚡ Fun fact: I enjoy playing Chess♟️and Traveling.😄🌱
+### Aspiring AI Software Engineer | BCA Student | Computer Science Enthusiast
+
+<img align="right" alt="coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+## 🚀 About Me
+
+* 🎓 BCA Student at United University, Prayagraj
+* 💻 Aspiring Software Engineer
+* 🌱 Currently learning MERN Stack, Java, and Spring Boot
+* 🔍 Interested in Software Development, AI, and Web Technologies
+* 🛠️ Building projects to strengthen problem-solving and development skills
+* 🤝 Open to internships, collaboration, and learning opportunities
+* ♟️ Enjoy Chess, Technology, and Exploring New Ideas
+
 ---
 
 ## 🏆 Achievements
-- 💡 Recognized & Selected under **Top 10** in **Google Techsprint Hackathon 2k25** through **Hack2skill** Organized by on Campus **Google Developers Group IPEC**.
-- 🎯 Selected for **Infosys Springboard – Pragati Path of Future Cohort 7**  
-- 💼 Worked as an **Intern at Edunet Foundation**, in collaboration with **IBM SkillsBuild**  
-- 🌍 Member of **Women in Tech & Entrepreneurship – International Community** more than 1 year.
--  🧠**Hackathons:**
--  Built a **Working GitHub Repository Analyzer Model** during a **Solo Online Hackathon**
--  Selected for Couple of Collage Campus Hackathons in 2026. 
--  **Open Source Contribution:**
--  1. Awarded as **Top 69th** opensource Contributor of many project out of 5000+ contributors under Elite Codes Winter Of Code 2026.
--  2. Campus Ambassador of Girls Script Summer Of Code 2025. 
+
+* 🥇 Finalist (Top 10) – Google TechSpirit Hackathon 2025
+* 🌟 Top 69 Open Source Contributor – Elite Coders Winter of Code 2026
+* 🎯 Selected for Infosys Springboard – Pragati Path of Future (Cohort 7)
+* 💼 Intern at Edunet Foundation in collaboration with IBM SkillsBuild
+* 👩‍💻 Campus Ambassador – GirlScript Summer of Code 2025
+* 🌍 Member of Women in Tech & Entrepreneurship Community
+* 🎯 Participated in multiple hackathons and technical workshops
+
 ---
 
 ## 🛠️ Skills & Technologies
 
-- 🌐 **Web Development:** HTML5, CSS3, Tailwind CSS, JavaScript  
-- ⚛️ **MERN Stack:** MongoDB, Express.js, React, Node.js *(Learning)*  
-- ☕ **Java, Springboot**  
-- 🐍 **Python:** Intermediate 
-- 🗄️ **Databases:** SQL  
-- 🔧 **Tools:** Git, GitHub, VS Code  
+### Languages
 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
 
-<!---
-ayushi826/ayushi826 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Web Development
+
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge\&logo=tailwindcss\&logoColor=white)
+
+### Currently Learning
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayushi826\&show_icons=true\&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushi826\&layout=compact\&theme=tokyonight)
+
+---
+
+## 📫 Connect With Me
+
+* GitHub: https://github.com/ayushi826
+* LinkedIn: https://linkedin.com/in/ayushi542
+
+---
+
+⭐ Learning, Building, and Growing Every Day.
