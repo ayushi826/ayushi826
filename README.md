@@ -4,7 +4,7 @@
 ### Aspiring AI Software Engineer | BCA Student | Computer Science Enthusiast
 <img align="right" alt="Girl Coding" width="320" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 
-## 🚀 About Me
+## About Me
 
 * 🎓 BCA Student at United University, Prayagraj
 * 💻 Aspiring Software Engineer
