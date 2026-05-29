@@ -83,7 +83,7 @@
   </a>
 </p>
 
-#Streak
+# Streak
 ![GitHub Streak](https://streak-stats.demolab.com?user=ayushi826&theme=tokyonight&hide_border=true)
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
