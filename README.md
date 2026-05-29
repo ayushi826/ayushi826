@@ -83,10 +83,7 @@
   </a>
 </p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=ayushi826&label=Profile%20Views&color=0e75b6&style=for-the-badge)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ayushi826&theme=tokyonight&no-frame=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
-
+#Streak
 ![GitHub Streak](https://streak-stats.demolab.com?user=ayushi826&theme=tokyonight&hide_border=true)
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
