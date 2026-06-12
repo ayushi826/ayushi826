@@ -20,11 +20,12 @@
 
 * 🥇 Finalist (Top 10) – Google TechSpirit Hackathon 2025
 * 🌟 Top 69 Open Source Contributor – Elite Coders Winter of Code 2026
-* 🎯 Selected for Infosys Springboard – Pragati Path of Future (Cohort 7)
+* 🤝 Working with a service based start-up at Core technical member Position
+* 🎯 Selected & completed for Infosys Springboard – Pragati Path of Future (Cohort 7)
 * 💼 Intern at Edunet Foundation in collaboration with IBM SkillsBuild
 * 👩‍💻 Campus Ambassador – GirlScript Summer of Code 2025
 * 🌍 Member of Women in Tech & Entrepreneurship Community
-* 🎯 Participated in multiple hackathons and technical workshops
+* 🎯 Led and Participated in multiple hackathons and technical workshops
 
 ---
 
