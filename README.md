@@ -1,7 +1,7 @@
 
 # Hi, I'm Ayushi Srivastava 👋
 
-### Aspiring AI Software Engineer | BCA Student | Computer Science Enthusiast
+### Aspiring Software Engineer | BCA Student | Computer Science Enthusiast
 <img align="right" alt="Girl Coding" width="320" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 
 ## About Me
