@@ -18,7 +18,7 @@
 
 ## 🏆 Achievements
 
-* 🥇 Finalist (Top 10) – Google TechSpirit Hackathon 2025
+* 🥇 Finalist (Top 10) – Google TechSprint Hackathon 2025
 * 🌟 Top 69 Open Source Contributor – Elite Coders Winter of Code 2026
 * 🤝 Working with a service based start-up as Core technical member Position
 * 🎯 Selected & completed for Infosys Springboard – Pragati Path of Future (Cohort 7)
