@@ -28,7 +28,7 @@
 * 🎯 Led and Participated in multiple hackathons and technical workshops
 
 ---
-[![GitHub Streak](https://streak-stats.demolab.com?user=ayushi826&theme=transparent)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com?user=ayushi826&theme=github-dark&hide_border=true)
 
 ## 🛠️ Skills & Technologies
 
