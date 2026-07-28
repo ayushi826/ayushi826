@@ -85,7 +85,7 @@
 </p>
 
 # Streak
-[![GitHub Streak](https://streak-stats.demolab.com?user=ayushi826&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ayushi826&theme=radical)](https://git.io/streak-stats)
 
 ![Snake animation](https://github.com/ayushi826/ayushi826/blob/output/github-contribution-grid-snake.svg)
 
